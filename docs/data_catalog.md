@@ -45,8 +45,8 @@ The Gold Layer is the business-level data representation, structured to support 
 
 3. gold.fact_sales
    
-  - Purpose: Stores transactional sales data for analytical purposes.
-  - Columns:
+     - Purpose: Stores transactional sales data for analytical purposes.
+     - Columns:
 
 | Column Name |Data Type| Description |
 |:---| :--- | :--- |
