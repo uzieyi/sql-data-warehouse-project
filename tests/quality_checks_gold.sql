@@ -1,7 +1,7 @@
 /*
-===============================================================================
+================================================================================
 Quality Checks
-===============================================================================
+================================================================================
 Script Purpose:
     This script performs various quality checks for data consistency, accuracy, 
     and standardisation across the 'silver' layer. It includes checks for:
@@ -12,7 +12,7 @@ Script Purpose:
     - Data consistency between related fields.
 
 Usage Notes:
-    - Run these checks after data loading the Silver Layer.
+    - Run these checks after loading the Silver Layer.
     - Investigate and resolve any discrepancies found during the checks.
 ===============================================================================
 */
