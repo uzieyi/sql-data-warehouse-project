@@ -1,13 +1,16 @@
-# sql-data-warehouse-project
-Building a Modern data warehouse with SEL Serve,  including ETL processes, data modelling and analytics 
+# Data Warehouse and Analytics project
 
 
+Building a Modern data warehouse with SQL Server,  including ETL processes, data modelling and analytics. 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 
-🏗️ Data Architecture
+## 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
+! (Medallion Architecture C:\Users\HP\Documents\Drawings\output\data warehouse project  Diagram.jpg)
+
+data warehouse project  Diagram.jpg
 <img width="755" height="543" alt="data_archDiagram drawio" src="https://github.com/user-attachments/assets/905d0298-d090-463e-a5e6-51a29c4fcf74" />
 
 
