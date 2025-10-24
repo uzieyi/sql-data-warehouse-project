@@ -1,6 +1,8 @@
 /*
-
-## You can find the [complete data exploration project here](https://github.com/uzieyi/sql-exploratory-data-analytics-project.git)
+**************************************************************************
+You can find the complete data exploration project in the link below
+https://github.com/uzieyi/sql-exploratory-data-analytics-project.git
+***************************************************************************
 
 
 ===========================================================================
