@@ -61,6 +61,7 @@ Develop SQL-based analytics to deliver detailed insights into:
   - Customer Behaviour
   - Product Performance
   - Sales Trends
+  - ## You can find the [complete data exploration project here](https://github.com/uzieyi/sql-exploratory-data-analytics-project.git)
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 
