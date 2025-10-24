@@ -1,4 +1,8 @@
 /*
+
+## You can find the {complete data exploration project here](https://github.com/uzieyi/sql-exploratory-data-analytics-project.git)
+
+
 ===========================================================================
 This script is for Exploratory Data Analysis (EDA) on the Gold layer
 ===========================================================================
