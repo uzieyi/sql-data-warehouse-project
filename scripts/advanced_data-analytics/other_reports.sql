@@ -1,9 +1,15 @@
 
---PS, the script will be separated soon
+/*
+**************************************************************************
+You can find the complete data exploration and analysis project in the link below
+https://github.com/uzieyi/sql-exploratory-data-analytics-project.git
+***************************************************************************
 
 -- ============Trends | Change over time=================
 --Change over time (aggregated measure by date)
 --Sales Performance over time
+*/
+
 
 -- DAY
 SELECT 
